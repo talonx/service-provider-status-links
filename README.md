@@ -32,6 +32,9 @@ Twitter for Status -> Some services have a dedicated Twitter only for status upd
 | DataDog (US1) - other regions are linked from this page. | https://status.datadoghq.com/              | https://status.datadoghq.com/history.atom, https://status.datadoghq.com/history.rss                           | Yes                  |                    |
 | DataDog Integrations                                     | https://datadogintegrations.statuspage.io/ | https://datadogintegrations.statuspage.io/history.atom, https://datadogintegrations.statuspage.io/history.rss | Yes                  |                    |
 | Uptime Robot                                             | https://status.uptimerobot.com/            |                                                                                                               | Yes                  |                    |
+| Solarwinds Pingdom                                       | https://status.pingdom.com/                |                                                                                                               | Yes                  |                    |
+| Dynatrace                                                | https://dynatrace.status.io/               | https://dynatrace.status.io/pages/546d8cb6af8407b6730000cb/rss                                                | Yes                  |                    |
+| New Relic                                                | https://status.newrelic.com/               | https://status.newrelic.com/history.atom, https://status.newrelic.com/history.rss                             | Yes                  |                    |
 
 
 
