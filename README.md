@@ -49,12 +49,9 @@ Twitter for Status -> Some services have a dedicated Twitter only for status upd
 |--|--|--|--|--|
 |GitHub | https://www.githubstatus.com/|https://www.githubstatus.com/history.atom, https://www.githubstatus.com/history.rss||https://twitter.com/githubstatus|
 |GitLab|https://status.gitlab.com/|https://status.gitlab.com/pages/5b36dc6502d06804c08349f7/rss|Yes|https://twitter.com/gitlabstatus|
-||||||
-
-### Container Registries
-| Service |Status Page |RSS Feed|Direct Notifications|Twitter for Status|
-|--|--|--|--|--|
-| | | |
+|Maven|https://status.maven.org/|https://status.maven.org/history.atom, https://status.maven.org/history.rss|Yes|https://twitter.com/sonatype_ops|
+|Quay.io Container Registry|https://status.quay.io/|https://status.quay.io/history.atom, https://status.quay.io/history.rss|Yes||
+|Docker Hub|https://www.dockerstatus.com/|https://www.dockerstatus.com/pages/533c6539221ae15e3f000031/rss|Yes||
 
 ### Other
 | Service |Status Page |RSS Feed|Direct Notifications|Twitter for Status|
