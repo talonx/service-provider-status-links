@@ -3,6 +3,7 @@ A list of URLs to the RSS feeds and status pages of various service providers
 
 ### Key
 Direct Notifications -> Does the status page have a way to send direct notifications (email, text, etc) ?
+
 Twitter for Status -> Some services have a dedicated Twitter only for status updates. I've left out Twitter accounts that are inactive.
 
 ### Public Clouds, CDNs, Hosting
