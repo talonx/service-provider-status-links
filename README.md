@@ -31,6 +31,7 @@ Twitter for Status -> Some services have a dedicated Twitter only for status upd
 |--|--|--|--|--|
 |DataDog (US1) - other regions are linked from this page.|https://status.datadoghq.com/|https://status.datadoghq.com/history.atom, https://status.datadoghq.com/history.rss|Yes||
 |DataDog Integrations|https://datadogintegrations.statuspage.io/|https://datadogintegrations.statuspage.io/history.atom, https://datadogintegrations.statuspage.io/history.rss|Yes||
+|Uptime Robot|https://status.uptimerobot.com/||Yes||
 
 
 
@@ -43,6 +44,7 @@ Twitter for Status -> Some services have a dedicated Twitter only for status upd
 |Atlassian|https://status.atlassian.com/|https://status.atlassian.com/history.atom, https://status.atlassian.com/history.rss|||
 |Dropbox|https://status.dropbox.com/|https://status.dropbox.com/history.atom, https://status.dropbox.com/history.rss|Yes||
 |Google Workspace|https://www.google.com/appsstatus/dashboard/|https://www.google.com/appsstatus/dashboard/en-IN/feed.atom|||
+|Zoho|https://status.zoho.com/|https://status.zoho.com/rss|Yes||
 
 ### Dev Tools
 | Service |Status Page |RSS Feed|Direct Notifications|Twitter for Status|
@@ -52,6 +54,11 @@ Twitter for Status -> Some services have a dedicated Twitter only for status upd
 |Maven|https://status.maven.org/|https://status.maven.org/history.atom, https://status.maven.org/history.rss|Yes|https://twitter.com/sonatype_ops|
 |Quay.io Container Registry|https://status.quay.io/|https://status.quay.io/history.atom, https://status.quay.io/history.rss|Yes||
 |Docker Hub|https://www.dockerstatus.com/|https://www.dockerstatus.com/pages/533c6539221ae15e3f000031/rss|Yes||
+|Kraken CI|https://status.kraken.com/|https://status.kraken.com/history.atom, https://status.kraken.com/history.rss|Yes||
+|Travis CI|https://www.traviscistatus.com/|https://www.traviscistatus.com/history.atom, https://www.traviscistatus.com/history.rss|Yes|https://twitter.com/traviscistatus|
+|Circle CI|https://status.circleci.com/|https://status.circleci.com/history.atom, https://status.circleci.com/history.rss|Yes|https://twitter.com/CircleCIstatus|
+|Codefresh|https://status.codefresh.io/|https://status.codefresh.io/history.atom, https://status.codefresh.io/history.rss|Yes||
+
 
 ### Other
 | Service |Status Page |RSS Feed|Direct Notifications|Twitter for Status|
