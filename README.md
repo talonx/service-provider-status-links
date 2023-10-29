@@ -35,6 +35,7 @@ Twitter for Status -> Some services have a dedicated Twitter only for status upd
 | Solarwinds Pingdom                                       | https://status.pingdom.com/                |                                                                                                               | Yes                  |                    |
 | Dynatrace                                                | https://dynatrace.status.io/               | https://dynatrace.status.io/pages/546d8cb6af8407b6730000cb/rss                                                | Yes                  |                    |
 | New Relic                                                | https://status.newrelic.com/               | https://status.newrelic.com/history.atom, https://status.newrelic.com/history.rss                             | Yes                  |                    |
+| Opsgenie                                                 | https://opsgenie.status.atlassian.com/     | https://opsgenie.status.atlassian.com/history.atom, https://opsgenie.status.atlassian.com/history.rss         | Yes                  |                    |
 
 
 
